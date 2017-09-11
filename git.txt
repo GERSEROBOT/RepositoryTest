@@ -1,0 +1,42 @@
+
+1)
+sudo aptitude update
+sudo apt-get install git -y
+
+3)
+git clone https://github.com/GERSEROBOT/robot-test
+
+4)
+git init
+git add chassi_base.stl
+
+5)
+git commit -m "chassi base pata robot"
+
+6)
+git push origin master
+
+
+
+
+
+7)
+git init	# iniciat
+git pull	# sincronizar seu repositorio local
+
+
+8)
+git checkout -b add_Brushless
+
+
+9)
+git add chassi_MotorBrushless.stl
+
+10)
+git commit -m "chassi adaptado para motor Brushless"
+
+11)
+git push origin add_Brushless
+
+12)
+git merge add_Brushless X
