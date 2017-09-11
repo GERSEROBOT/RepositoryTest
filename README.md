@@ -1,3 +1,3 @@
 # RepositoryTest
 
-Esse Repositório está dedicado a teninamento dos membros do GERSE para ulilizarem o git
+# Esse Repositório está dedicado para treinamento dos membros do gurpo GERSE.
